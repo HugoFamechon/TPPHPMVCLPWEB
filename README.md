@@ -1,9 +1,2 @@
-# My sweet MVC
-Découverte d'un MVC pas à pas avec PHP
-
- 1 - HelloWorld à la sauce MVC
- 
- 2 - Routage simple et Exceptions
- 
- 3 - Modèles et connexion BDD (coming soon...)
- 
+# Projet Php fait avec l'aide de My sweet MVC 
+Grouping d'étudiant en saisissant le nombre d'étudiant par groupe.
